@@ -1,3 +1,7 @@
+/*
+ * Problem: Build a Swing login form with username/password fields that
+ *          checks against a hardcoded admin/pass credential pair.
+ */
 import javax.swing.*;
 
 public class LogInForm{
@@ -19,8 +23,6 @@ public class LogInForm{
         button.addActionListener(e -> {
             String username = textField1.getText();
             String password = textField2.getText();
-            // JOptionPane.showMessageDialog(frame, "Hello "+username+"\n Your Password : "+password);
-            // JOptionPane.showMessageDialog(frame, "Your Password : "+password);
 
             //authentication
 

@@ -1,3 +1,7 @@
+/*
+ * Problem: Classic "Hello World" program - also declares a few static
+ *          fields (unused by main) as an early look at class variables.
+ */
 public class Hello {
 
      static String name = "Saaiil";

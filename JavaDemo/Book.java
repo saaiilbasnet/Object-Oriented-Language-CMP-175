@@ -1,3 +1,8 @@
+/*
+ * Problem: Define a Book class with title, author and price attributes,
+ *          a method to display the book's details, and a static
+ *          bookCount shared across all instances.
+ */
 // Define a Java class called Book with attributes for title, author, and price. Write a method to display the book's details and use static members
 
 public class Book{
@@ -36,4 +41,3 @@ public class Book{
     }
 
 }
-

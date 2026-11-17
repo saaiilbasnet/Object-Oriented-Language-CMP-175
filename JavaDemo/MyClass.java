@@ -1,3 +1,7 @@
+/*
+ * Topic: Constants - a `static final` constant variable (Pi), plus a
+ *        note on the primitive `boolean` vs. the wrapper class `Boolean`.
+ */
 //Creating a constant variable
 public class MyClass {
     //constant variable

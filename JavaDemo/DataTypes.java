@@ -1,3 +1,8 @@
+/*
+ * Topic: Primitive data types - declares one static field of each
+ *        primitive type (byte, int, float, short, long, double, char,
+ *        boolean) plus a String, and prints them.
+ */
 public class DataTypes {
 
    static byte myByte = 127;

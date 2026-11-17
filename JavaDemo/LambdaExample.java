@@ -1,3 +1,8 @@
+/*
+ * Problem: Iterate over an ArrayList using a lambda expression passed
+ *          to forEach() (compare with the plain for-each loop, left
+ *          commented for reference).
+ */
 import java.util.ArrayList;
 
 public class LambdaExample {

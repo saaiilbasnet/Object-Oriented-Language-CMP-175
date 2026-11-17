@@ -1,3 +1,7 @@
+/*
+ * Problem: Model a circle with a radius field, getter/setter, and a
+ *          method to calculate its area.
+ */
 public class Circle {
     private  double radius;
 

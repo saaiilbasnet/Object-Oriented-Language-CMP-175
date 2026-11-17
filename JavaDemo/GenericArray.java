@@ -1,3 +1,7 @@
+/*
+ * Problem: Write a generic method that prints the elements of any
+ *          array type (demonstrated with Integer[] and String[]).
+ */
 public class GenericArray {
     
     public static <T> void printArray(T[] array){ //<T> for type defination and void for return types

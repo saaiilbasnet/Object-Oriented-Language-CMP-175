@@ -1,3 +1,7 @@
+/*
+ * Problem: Read a username and password from the console using
+ *          Scanner, then print them back.
+ */
 //taking user input
 import java.util.Scanner;
 public class UserInput {

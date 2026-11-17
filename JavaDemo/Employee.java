@@ -1,4 +1,8 @@
-
+/*
+ * Topic: Generics - a generic Employee<T> class whose employeeId field
+ *        can be any type (int, String, ...), demonstrated with two
+ *        different type arguments.
+ */
 public class Employee<T>{
     private T employeeId;
 

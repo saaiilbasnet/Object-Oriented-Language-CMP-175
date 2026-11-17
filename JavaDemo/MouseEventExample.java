@@ -1,3 +1,7 @@
+/*
+ * Problem: Build a Swing window that logs mouse click/press/release
+ *          coordinates to the console via a MouseAdapter.
+ */
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 

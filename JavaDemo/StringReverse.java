@@ -1,4 +1,7 @@
-
+/*
+ * Problem: Reverse a string passed in as a command-line argument,
+ *          using StringBuilder's reverse() method.
+ */
 public class StringReverse{
 
     public static void main(String[] args){

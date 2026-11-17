@@ -1,3 +1,7 @@
+/*
+ * Problem: Find the factorial of an entered number using a recursive
+ *          method.
+ */
 import java.util.Scanner;
 
 public class factorial {

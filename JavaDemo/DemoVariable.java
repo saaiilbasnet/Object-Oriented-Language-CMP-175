@@ -1,3 +1,8 @@
+/*
+ * Topic: Class (static) variables vs. instance (object) variables -
+ *        `name` is shared via the class, `address` belongs to each
+ *        instance.
+ */
 public class DemoVariable {
     static String name = "Saaiil";
     String address = "Gatthaghar";

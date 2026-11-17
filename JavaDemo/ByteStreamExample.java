@@ -1,3 +1,9 @@
+/*
+ * Problem: Copy bytes from source.txt to destination.txt using
+ *          FileInputStream/FileOutputStream (byte streams, try-with-
+ *          resources). Note: the `break` after the first read means it
+ *          only copies the first 1024-byte chunk, not the whole file.
+ */
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;

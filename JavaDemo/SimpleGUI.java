@@ -1,3 +1,7 @@
+/*
+ * Problem: Build a simple Swing GUI - a text field and submit button
+ *          that greets the entered name in a popup dialog.
+ */
 import javax.swing.*;
 
 public class SimpleGUI{

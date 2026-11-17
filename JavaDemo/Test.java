@@ -1,3 +1,8 @@
+/*
+ * Problem: Create a BankAccount-style class (named Test) with
+ *          accountNumber, balance and accountHolderName, a constructor
+ *          to initialize them, and a method to deposit money.
+ */
 //  Create a Java class called BankAccount with attributes for accountNumber, balance, and accountHolderName. Write a constructor to initialize the attributes and a method to deposit money into the account.
 
 public class Test{
